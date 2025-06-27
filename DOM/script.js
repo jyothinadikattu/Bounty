@@ -1,8 +1,4 @@
 let headingE1 = document.getElementById("heading");
-// headingE1.innerHTML = "jyothi";
-// headingE1.style.color="green";
-// consolo.log(headingE1);
-
 function change(){
     headingE1.textContent="abc";
     headingE1.style.color="green";
